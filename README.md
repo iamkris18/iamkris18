@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamkris18
-- 👀 I’m interested in ruby on rails
-- 🌱 I’m currently learning rails framework
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning flask framework
 - 💞️ I’m looking to collaborate on linkdin/github
 - 📫 you can reach me through linkdin or github
 - ⚡ Fun fact: im an electrical engineer
